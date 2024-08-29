@@ -1,8 +1,9 @@
 # Learning-Management-System
 Another Java Full Stack Project from 2023. 
 
-Links:
-[Front End](Servlet_Student_Management/src/main/webapp)
+Links:<br/>
+[Front End](Servlet_Student_Management/src/main/webapp)<br/>
+[Back End](Servlet_Student_Management/src/main/java)<br/><br/>
 This is an MVC project that has 2 interfaces: Teacher , Student. 
 The Teacher Dashboard allows teacher to create, delete, view classes; create to-do lists. Class interface on Teacher's side allows them to view attendence, enrollment, upload assignments.
 The Student Dashboard allows students to join, leave, view classes; create to-do lists.
